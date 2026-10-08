@@ -1,0 +1,6 @@
+{
+  "name": "CyberSafe - AI Cyber Safety Education & Quiz",
+  "description": "Interactive cyber safety education, real-world scam simulations, threat encyclopedia, and personalized AI quiz generator with dark and light themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
